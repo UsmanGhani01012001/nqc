@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-10">
           <div>
             <h3 className="font-serif text-xl font-bold text-gradient-gold mb-3">
-              Style International
+              NQC
             </h3>
             <p className="text-xs tracking-[0.3em] uppercase text-muted-foreground mb-4">
               Deal Town
@@ -24,15 +24,15 @@ const Footer = () => {
             <ul className="space-y-3 text-sm text-muted-foreground">
               <li className="flex items-center gap-2">
                 <Phone className="h-4 w-4 text-primary" />
-                <a href="tel:+923453282241" className="hover:text-primary transition-colors">+92 345 3282241</a>
+                <a href="tel:+923453282241" className="hover:text-primary transition-colors">+92 327 5337209</a>
               </li>
               <li className="flex items-center gap-2">
                 <Phone className="h-4 w-4 text-primary" />
-                <a href="tel:+923343959465" className="hover:text-primary transition-colors">+92 334 3959465</a>
+                <a href="tel:+923343959465" className="hover:text-primary transition-colors">+92 308 1709848</a>
               </li>
               <li className="flex items-center gap-2">
                 <Mail className="h-4 w-4 text-primary" />
-                <a href="mailto:nayyarahmed1954@gmail.com" className="hover:text-primary transition-colors">nayyarahmed1954@gmail.com</a>
+                <a href="mailto:nayyarahmed1954@gmail.com" className="hover:text-primary transition-colors">usmanghanibhai16@gmail.com</a>
               </li>
               <li className="flex items-start gap-2">
                 <MapPin className="h-4 w-4 text-primary mt-0.5" />
@@ -67,7 +67,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-gold mt-10 pt-6 text-center text-xs text-muted-foreground">
-          © {new Date().getFullYear()} Style International — Deal Town. All rights reserved.
+          © {new Date().getFullYear()} NQC — Deal Town. All rights reserved.
         </div>
       </div>
     </footer>

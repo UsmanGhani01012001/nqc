@@ -11,7 +11,7 @@ const Hero = () => {
           Premium Collection
         </p>
         <h2 className="text-4xl md:text-6xl lg:text-7xl font-serif font-bold mb-6 text-gradient-gold">
-          Discover Luxury
+          NQC
         </h2>
         <p className="text-muted-foreground text-lg md:text-xl max-w-2xl mx-auto mb-10 leading-relaxed">
           Curated collection of premium products — from elegant home décor to beauty essentials. 

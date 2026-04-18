@@ -20,7 +20,7 @@ const Header = () => {
           <ShoppingBag className="h-7 w-7 text-primary" />
           <div>
             <h1 className="text-xl font-serif font-bold text-gradient-gold leading-tight">
-              Style International
+              NQC
             </h1>
             <p className="text-[10px] tracking-[0.3em] uppercase text-muted-foreground">
               Deal Town
